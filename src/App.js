@@ -45,11 +45,6 @@ function App() {
               </button>
             </li>
         )}
-        <li>
-          Repositório 1
-
-          
-        </li>
       </ul>
 
       <button onClick={handleAddRepository}>Adicionar</button>
